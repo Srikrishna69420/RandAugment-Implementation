@@ -32,4 +32,3 @@ The notebook exposes the number of operations and augmentation magnitude in its 
 
 CIFAR-10 is downloaded by torchvision into `./data` when the notebook is run.
 
-The original notebook is preserved unchanged in this cleanup branch; no algorithmic changes are made.
